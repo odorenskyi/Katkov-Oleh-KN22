@@ -1,0 +1,9 @@
+﻿  Katkov.cpp
+  Katkov_lib.cpp
+C:\Users\home\OneDrive\Рабочий стол\KNTU LAB\Katkov-Oleh-KN22\lab08\tasks\Katkov\Katkov\Katkov_lib.cpp(60,13): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\home\OneDrive\Рабочий стол\KNTU LAB\Katkov-Oleh-KN22\lab08\tasks\Katkov\Katkov\Katkov_lib.cpp(77,40): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\home\OneDrive\Рабочий стол\KNTU LAB\Katkov-Oleh-KN22\lab08\tasks\Katkov\Katkov\Katkov_lib.cpp(78,40): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\home\OneDrive\Рабочий стол\KNTU LAB\Katkov-Oleh-KN22\lab08\tasks\Katkov\Katkov\Katkov_lib.cpp(79,40): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\home\OneDrive\Рабочий стол\KNTU LAB\Katkov-Oleh-KN22\lab08\tasks\Katkov\Katkov\Katkov_lib.cpp(80,40): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  Создание кода...
+  Katkov.vcxproj -> C:\Users\home\OneDrive\Рабочий стол\KNTU LAB\Katkov-Oleh-KN22\lab08\tasks\Katkov\x64\Debug\Katkov.exe
